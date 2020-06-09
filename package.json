@@ -1,9 +1,10 @@
 {
   "name": "Eat-Da-Burger",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Allows you to add and consume different types of burgers",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
